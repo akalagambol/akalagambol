@@ -1,1 +1,1 @@
-- Hi, I’m @akalagambol, a CS student interested in AI and natural language processing.
+#Hi, I’m @akalagambol, a CS student interested in AI and natural language processing.
